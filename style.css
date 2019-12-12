@@ -1,0 +1,145 @@
+body,
+html {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.adddoc-bg {
+    background-color: rgb(205, 228, 228);
+    width: 100%;
+    height: auto;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.userlogin-bg {
+    background-image: url("file:///C:/Users/pc/Desktop/bts/images/background.jpeg.jpg");
+    height: auto;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.crm {
+    background-color: rgb(205, 228, 228);
+    width: auto;
+    height: auto;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.newmember-bg {
+    background-color: rgb(205, 228, 228);
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.formstyle {
+    border: 1px solid grey;
+    box-shadow: 5px 10px #8888881a;
+    border-radius: 20px;
+    background-color: rgb(240, 239, 239);
+}
+
+.formmargin {
+    margin-top: 10%;
+    height: 100%;
+}
+
+.manulist {
+    border: 1px solid gray;
+    box-shadow: 5px 10px #8888881a;
+}
+
+.boxdesign {
+    width: 350px;
+    padding: 30px;
+}
+
+.home-bg {
+    background-color: rgb(205, 228, 228);
+    width: 100%;
+    height: auto;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.creatlead-bg {
+    background-color: rgb(205, 228, 228);
+    width: 100%;
+    height: auto;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+/*form box style*/
+
+.createlead {
+    background-color: rgb(240, 239, 239);
+    border: 1px solid rgb(19, 17, 17);
+    box-shadow: 5px 10px #8888881a;
+    border-radius: 20px;
+}
+
+.custombtn a button {
+    padding: 20px 100px;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.logo-design {
+    height: 50px;
+}
+
+.box {
+    background-color: #fdfdfd;
+    border: 1px solid grey;
+    box-shadow: 15px 10px #8888881a;
+    border-radius: 15px;
+}
+
+.actbtn button {
+    width: 200px;
+    height: 100px;
+    /* margin: 0 100px; */
+}
+
+.subbtn {
+    margin-right: 50px;
+    margin-top: 50px;
+    margin-right: 50px;
+    margin-top: 50px;
+}
+
+.navbtn {
+    margin-left: 100px;
+}
+
+.adddoc-box {
+    background-color: rgb(240, 239, 239);
+    border: 2px solid rgb(10, 10, 10);
+    box-shadow: 5px 10px #8888881a;
+    border-radius: 15px;
+}
+
+.invoice-bg {
+    background-color: rgb(205, 228, 228);
+    width: 100%;
+    height: auto;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.inv-nav-btn {
+    margin-left: 100px;
+}
+
+.invoice-form-box {
+    background-color: white;
+    border: 1px solid grey;
+    box-shadow: 5px 10px #8888881a;
+    border-radius: 15px;
+}

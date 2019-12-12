@@ -1,0 +1,22 @@
+ <div class="form-inline">
+                    <div>
+                        <button type="button" class="btn btn-dark actbtn ">Active Data</button>
+                    </div>
+
+
+                    <!--average button style-->
+
+
+                    <!-- <a href="file:///C:/Users/pc/Desktop/bts/Success.html "> -->
+                    <div>
+                        <button type="button " class="btn btn-dark avrbtn ">Average Data</button>
+                    </div>
+
+
+                    <!--non-active button styling-->
+                    <div>
+                        <button type="button " class="btn btn-dark non-actbtn ">Non-Active Data</button>
+
+                    </div>
+
+                </div>
